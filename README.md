@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Amit+Sengupta;Web+Developer+%2B+Toolsmith+%40+Microsoft" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Amit+Sengupta;Web+Developer+%2B+Toolsmith" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -23,14 +23,12 @@
 
 ```yaml
 name: Amit Sengupta
-location: Hyderabad, India 🇮🇳
-company: Microsoft
 role: Web Developer & Toolsmith
 focus: Web Apps • Developer Tools • Browser Extensions • AI Agents
 motto: "Let's try something new."
 ```
 
-- 🌐 I build **web applications** and **developer tools** at Microsoft
+- 🌐 I build **web applications** and **developer tools**
 - 🧩 Love creating **VS Code extensions**, **browser extensions**, and **dev tooling**
 - 🤖 Exploring **AI-powered automation** and agentic workflows
 - ⚡ JavaScript / TypeScript enthusiast — from React Native to Node.js
@@ -71,7 +69,7 @@ tools        →  Git · GitHub Actions · PowerShell
 
 ### 🎯 What I'm Into Right Now
 
-- 🌐 **Web Dev at Scale** — Building web experiences and tooling at Microsoft
+- 🌐 **Web Dev at Scale** — Building web experiences and developer tooling
 - 🧩 **Browser & VS Code Extensions** — Making developer workflows smoother
 - 🤖 **AI Agent Tooling** — Bridging AI models with real-world applications
 - 🧪 **Vibe Coding** — Exploring creative, experimental approaches to software ([check it out](https://amitse.github.io/vibe/))
