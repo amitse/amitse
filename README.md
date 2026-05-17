@@ -77,12 +77,11 @@ tools        →  Git · GitHub Actions · PowerShell
 ### GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amitse&show_icons=true&theme=react&bg_color=0d1117&hide_border=true&title_color=58A6FF&icon_color=F8D866&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=amitse&theme=react&background=0d1117&hide_border=true&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  <img width="52%" src="https://streak-stats.demolab.com/?user=amitse&theme=react&background=0d1117&hide_border=true&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitse&layout=compact&theme=react&bg_color=0d1117&hide_border=true&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=amitse&bg_color=0d1117&color=58A6FF&line=F8D866&point=58A6FF&area_color=58A6FF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 <!-- Activity Graph -->
