@@ -49,114 +49,24 @@ tools        →  Git · GitHub Actions · PowerShell
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">⚡ copilot-tap-extension</h3>
-<p align="center">
-  <a href="https://github.com/amitse/copilot-tap-extension">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitse&repo=copilot-tap-extension&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866" alt="copilot-tap-extension"/>
-  </a>
-</p>
-<p align="center"><strong>Background awareness layer for GitHub Copilot CLI</strong></p>
-<p align="center">EventEmitters, filters, and injectors for long-running agent workflows.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white"/>
-</p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🔀 detour</h3>
-<p align="center">
-  <a href="https://github.com/amitse/detour">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitse&repo=detour&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866" alt="detour"/>
-  </a>
-</p>
-<p align="center"><strong>Chromium extension for HTTP redirect & script injection</strong></p>
-<p align="center">Supercharge local development with custom redirect and injection rules.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3 align="center">👥 vscode-collaborate</h3>
-<p align="center">
-  <a href="https://github.com/amitse/vscode-collaborate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitse&repo=vscode-collaborate&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866" alt="vscode-collaborate"/>
-  </a>
-</p>
-<p align="center"><strong>P2P pair programming in VS Code</strong></p>
-<p align="center">Real-time collaborative coding without a central server.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🔍 csslens</h3>
-<p align="center">
-  <a href="https://github.com/amitse/csslens">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitse&repo=csslens&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866" alt="csslens"/>
-  </a>
-</p>
-<p align="center"><strong>CSS inspection & analysis tool</strong></p>
-<p align="center">Inspect and understand CSS with precision.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3 align="center">🖥️ uiacli</h3>
-<p align="center">
-  <a href="https://github.com/amitse/uiacli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitse&repo=uiacli&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866" alt="uiacli"/>
-  </a>
-</p>
-<p align="center"><strong>CLI for AI agents to control any Windows desktop app</strong></p>
-<p align="center">Click, type, inspect, screenshot — with visual overlay. Built for the agentic AI era.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Desktop_Automation-0078D4?style=flat-square&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square&logo=robot-framework&logoColor=white"/>
-</p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🔌 csssh-port-forward</h3>
-<p align="center">
-  <a href="https://github.com/amitse/csssh-port-forward">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitse&repo=csssh-port-forward&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866" alt="csssh-port-forward"/>
-  </a>
-</p>
-<p align="center"><strong>Auto-forward ports from GitHub Codespaces via SSH tunnels</strong></p>
-<p align="center">Seamless port forwarding for remote development environments.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Codespaces-000000?style=flat-square&logo=github&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-</table>
-</div>
+| | |
+|:---|:---|
+| **[⚡ copilot-tap-extension](https://github.com/amitse/copilot-tap-extension)** | **[🔀 detour](https://github.com/amitse/detour)** |
+| Background awareness layer for GitHub Copilot CLI. | Chromium extension for HTTP redirect & script injection. |
+| EventEmitters, filters, and injectors for agent workflows. | Supercharge local dev with custom redirect rules. |
+| `JavaScript` · `GitHub Copilot` | `JavaScript` · `Chrome` |
+| | |
+| **[👥 vscode-collaborate](https://github.com/amitse/vscode-collaborate)** | **[🔍 csslens](https://github.com/amitse/csslens)** |
+| P2P pair programming in VS Code. | CSS inspection & analysis tool. |
+| Real-time collaborative coding, no central server. | Inspect and understand CSS with precision. |
+| `JavaScript` · `VS Code API` | `TypeScript` · `CSS` |
+| | |
+| **[🖥️ uiacli](https://github.com/amitse/uiacli)** | **[🔌 csssh-port-forward](https://github.com/amitse/csssh-port-forward)** |
+| CLI for AI agents to control any Windows desktop app. | Auto-forward ports from GitHub Codespaces via SSH. |
+| Click, type, inspect, screenshot — with visual overlay. | Seamless port forwarding for remote dev environments. |
+| `Desktop Automation` · `AI Agents` | `PowerShell` · `Codespaces` |
 
 <div align="center">
   <a href="https://github.com/amitse?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -164,11 +74,11 @@ tools        →  Git · GitHub Actions · PowerShell
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amitse&show_icons=true&theme=react&bg_color=0d1117&hide_border=true&title_color=58A6FF&icon_color=F8D866&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amitse&theme=react&background=0d1117&hide_border=true&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=amitse&theme=react&background=0d1117&hide_border=true&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
