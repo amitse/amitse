@@ -58,11 +58,6 @@ tools        →  Git · GitHub Actions · PowerShell
 | EventEmitters, filters, and injectors for agent workflows. | Supercharge local dev with custom redirect rules. |
 | `JavaScript` · `GitHub Copilot` | `JavaScript` · `Chrome` |
 | | |
-| **[👥 vscode-collaborate](https://github.com/amitse/vscode-collaborate)** | **[🔍 csslens](https://github.com/amitse/csslens)** |
-| P2P pair programming in VS Code. | CSS inspection & analysis tool. |
-| Real-time collaborative coding, no central server. | Inspect and understand CSS with precision. |
-| `JavaScript` · `VS Code API` | `TypeScript` · `CSS` |
-| | |
 | **[🖥️ uiacli](https://github.com/amitse/uiacli)** | **[🔌 csssh-port-forward](https://github.com/amitse/csssh-port-forward)** |
 | CLI for AI agents to control any Windows desktop app. | Auto-forward ports from GitHub Codespaces via SSH. |
 | Click, type, inspect, screenshot — with visual overlay. | Seamless port forwarding for remote dev environments. |
