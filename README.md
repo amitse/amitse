@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Amit+Sengupta;Building+developer+tools+%40+Microsoft" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Amit+Sengupta;Web+Developer+%2B+Toolsmith+%40+Microsoft" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -25,15 +25,15 @@
 name: Amit Sengupta
 location: Hyderabad, India 🇮🇳
 company: Microsoft
-role: Software Engineer
-focus: Developer Tools • AI Agents • Desktop Automation
+role: Web Developer & Toolsmith
+focus: Web Apps • Developer Tools • Browser Extensions • AI Agents
 motto: "Let's try something new."
 ```
 
-- 🔧 I build **developer tools** that make engineers more productive
-- 🤖 Passionate about **AI-powered automation** and agentic workflows
-- 🪟 Deep expertise in **Windows UI Automation** and desktop tooling
-- 🧩 Love creating **VS Code extensions** and **browser dev tools**
+- 🌐 I build **web applications** and **developer tools** at Microsoft
+- 🧩 Love creating **VS Code extensions**, **browser extensions**, and **dev tooling**
+- 🤖 Exploring **AI-powered automation** and agentic workflows
+- ⚡ JavaScript / TypeScript enthusiast — from React Native to Node.js
 - ☕ Powered by curiosity and lots of chai
 
 ---
@@ -42,21 +42,20 @@ motto: "Let's try something new."
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 </div>
 
@@ -67,23 +66,6 @@ motto: "Let's try something new."
 <div align="center">
 <table>
 <tr>
-<td width="50%">
-
-<h3 align="center">🖥️ uiacli</h3>
-<p align="center">
-  <a href="https://github.com/amitse/uiacli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitse&repo=uiacli&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866" alt="uiacli"/>
-  </a>
-</p>
-<p align="center"><strong>CLI tool for AI agents to control any Windows desktop app</strong></p>
-<p align="center">Click, type, inspect, screenshot — with visual overlay. Built for the agentic AI era.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows_UI_Automation-0078D4?style=flat-square&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square&logo=robot-framework&logoColor=white"/>
-</p>
-
-</td>
 <td width="50%">
 
 <h3 align="center">⚡ copilot-tap-extension</h3>
@@ -100,8 +82,6 @@ motto: "Let's try something new."
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 <h3 align="center">🔀 detour</h3>
@@ -115,22 +95,6 @@ motto: "Let's try something new."
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/>
-</p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🔌 csssh-port-forward</h3>
-<p align="center">
-  <a href="https://github.com/amitse/csssh-port-forward">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitse&repo=csssh-port-forward&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866" alt="csssh-port-forward"/>
-  </a>
-</p>
-<p align="center"><strong>Auto-forward ports from GitHub Codespaces via SSH tunnels</strong></p>
-<p align="center">Seamless port forwarding for remote development environments.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Codespaces-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
 </td>
@@ -169,6 +133,40 @@ motto: "Let's try something new."
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">🖥️ uiacli</h3>
+<p align="center">
+  <a href="https://github.com/amitse/uiacli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitse&repo=uiacli&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866" alt="uiacli"/>
+  </a>
+</p>
+<p align="center"><strong>CLI for AI agents to control any Windows desktop app</strong></p>
+<p align="center">Click, type, inspect, screenshot — with visual overlay. Built for the agentic AI era.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Desktop_Automation-0078D4?style=flat-square&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square&logo=robot-framework&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">🔌 csssh-port-forward</h3>
+<p align="center">
+  <a href="https://github.com/amitse/csssh-port-forward">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitse&repo=csssh-port-forward&theme=react&bg_color=0d1117&title_color=58A6FF&hide_border=true&icon_color=F8D866" alt="csssh-port-forward"/>
+  </a>
+</p>
+<p align="center"><strong>Auto-forward ports from GitHub Codespaces via SSH tunnels</strong></p>
+<p align="center">Seamless port forwarding for remote development environments.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codespaces-000000?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+</td>
+</tr>
 </table>
 </div>
 
@@ -198,9 +196,10 @@ motto: "Let's try something new."
 
 ### 🎯 What I'm Into Right Now
 
-- 🤖 **AI Agent Tooling** — Building bridges between AI models and desktop applications
+- 🌐 **Web Dev at Scale** — Building web experiences and tooling at Microsoft
+- 🧩 **Browser & VS Code Extensions** — Making developer workflows smoother
+- 🤖 **AI Agent Tooling** — Bridging AI models with real-world applications
 - 🧪 **Vibe Coding** — Exploring creative, experimental approaches to software ([check it out](https://amitse.github.io/vibe/))
-- ⚙️ **Developer Experience** — Making dev environments frictionless with automation
 - 🔧 **Copilot Extensions** — Extending GitHub Copilot with background awareness
 
 ---
@@ -211,9 +210,6 @@ motto: "Let's try something new."
 
 <a href="https://github.com/amitse">
   <img src="https://img.shields.io/badge/GitHub-amitse-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://amitse.github.io">
-  <img src="https://img.shields.io/badge/Website-amitse.github.io-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <br/><br/>
