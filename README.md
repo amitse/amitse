@@ -34,7 +34,7 @@ motto: "Let's try something new."
 - 🧩 Love creating **VS Code extensions**, **browser extensions**, and **dev tooling**
 - 🤖 Exploring **AI-powered automation** and agentic workflows
 - ⚡ JavaScript / TypeScript enthusiast — from React Native to Node.js
-- ☕ Powered by curiosity and lots of chai
+- ☕ Powered by curiosity and mass amounts of coffee
 
 ---
 
@@ -65,23 +65,6 @@ tools        →  Git · GitHub Actions · PowerShell
 
 <div align="center">
   <a href="https://github.com/amitse?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</div>
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img width="52%" src="https://streak-stats.demolab.com/?user=amitse&theme=react&background=0d1117&hide_border=true&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=amitse&bg_color=0d1117&color=58A6FF&line=F8D866&point=58A6FF&area_color=58A6FF&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=amitse&bg_color=0d1117&color=58A6FF&line=F8D866&point=58A6FF&area_color=58A6FF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
